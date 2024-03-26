@@ -27,3 +27,8 @@ Here's what you can expect when interacting with the application:
   -Status Updates: As you interact with the application, status messages will be displayed in the "Status" area to provide feedback about the actions you've taken. 
   The primary output of this code is the graphical user interface that enables you to manage and play music in a user-friendly manner.
   It provides visual feedback through labels, buttons, and text areas, allowing you to control your music playlist and playback. 
+
+
+![image](https://github.com/Atharva-211/TuneBox/assets/143292799/b32eb31f-be5f-4578-8852-a0a44ceb0bfa)
+![image](https://github.com/Atharva-211/TuneBox/assets/143292799/6407fed6-18da-4549-be9e-b67cad8ee1ac)
+
